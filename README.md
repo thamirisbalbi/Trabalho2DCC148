@@ -1,6 +1,7 @@
 # Trabalho2DCC148
 Jogo simples de golfe
 
+Grupo: Thamiris Balbi Teixeira 
 Versão Unity: 6000.37f1
 
 Créditos de assets e áudios: 
