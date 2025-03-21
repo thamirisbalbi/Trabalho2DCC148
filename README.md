@@ -1,6 +1,8 @@
 # Trabalho2DCC148
 Jogo simples de golfe
 
+Versão Unity: 6000.37f1
+
 Créditos de assets e áudios: 
 https://www.flaticon.com/free-icon/right-click_3645909?term=computer+mouse+button&page=1&position=11&origin=search&related_id=3645909
 
